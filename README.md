@@ -6,6 +6,8 @@ website for delani studios
 
 ## Author
 - Kimani Evan
+## Contact
+Email:malcomchege0582@gmail.com
 
 ## Set Up Instructions
 - Clone this repo through git clone 
