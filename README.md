@@ -3,6 +3,12 @@
 website for delani studios
 ## Description
 - This Website is a recreation of the Delani studio website. It contains information about the studio including what they do and their portfolio.
+## Technologies used
+ HTML
+- CSS
+- BOOTSTRAP
+- JAVASCRIPT
+- JQUERY
 
 ## Author
 - Kimani Evan
