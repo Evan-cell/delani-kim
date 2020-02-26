@@ -10,7 +10,7 @@ website for delani studios
 - JAVASCRIPT
 - JQUERY
 ## Live Link
-
+https://evan-cell.github.io/delani-kim/
 ## Author
 - Kimani Evan
 ## Contact
